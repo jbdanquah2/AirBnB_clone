@@ -9,7 +9,7 @@
   font-size: 30px;
 }
 .places article {
-  width: 390px auto;
+  width: 390px;
   padding: 20px;
   margin: 20px;
   border: 1px solid #ff5a5f;
@@ -155,11 +155,11 @@ article .reviews h3 {
     box-sizing: border-box;
     font-size: 14px;
 }
-@media screen and (max-width: 80rem){
+@media screen and (max-width: 760px){
     .places {
         margin: 0 20px;
     }
-    article {
+    .places article {
         width: 100%;
         padding: 0 20px;
     }
