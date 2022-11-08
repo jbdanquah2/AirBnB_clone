@@ -2,7 +2,7 @@
 <br>
 <h2 align="left"> AirBnB clone project</h2>
 ---
-[See all Static Webpages here](https://jbdanquah2.github.io/AirBnB_clone/web_static)
+## [Demo: Static Web Pages here](https://jbdanquah2.github.io/AirBnB_clone/web_static)
 
 ## Description
 This the Backend/console of a Wep app. For edducational purposes, it's a clone
