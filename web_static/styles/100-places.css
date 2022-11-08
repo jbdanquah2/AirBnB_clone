@@ -155,12 +155,3 @@ article .reviews h3 {
     box-sizing: border-box;
     font-size: 14px;
 }
-@media screen and (max-width: 760px){
-    .places {
-        margin: 0 20px;
-    }
-    .places article {
-        width: 100%;
-        padding: 0 20px;
-    }
-}
