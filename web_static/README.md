@@ -6,7 +6,7 @@ Progressive development of this clone is represented in each of the of the numbe
 index files; eg: 1-index.html
 
 ##Demos - Mandatory:
-<br>
+<br/><br/>
 <a style="background-color: #333; color: #fefefe; padding:6px; border-radius:4px"
       href="https://jbdanquah2.github.io/AirBnB_clone/web_static/1-index.html">1-index.html
 </a>
@@ -40,7 +40,7 @@ index files; eg: 1-index.html
 </a>
 <br><br>
 ##Demos - Advanced:
-<br>
+<br/><br/>
 <a style="background-color: #333; color: #fefefe; padding:6px; border-radius:4px"
       href="https://jbdanquah2.github.io/AirBnB_clone/web_static/100-index.html">100-index.html
 </a>
