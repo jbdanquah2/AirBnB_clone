@@ -1,3 +1,4 @@
+[See all Static Webpages here](https://jbdanquah2.github.io/AirBnB_clone/web_static)
 <br>
 <br>
 <h2 align="left"> AirBnB clone project</h2>
